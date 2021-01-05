@@ -26,7 +26,7 @@
 /* USER CODE BEGIN Includes */
 #include <string.h>
 #include <stdarg.h>
-#include "sdcard.h"
+
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
